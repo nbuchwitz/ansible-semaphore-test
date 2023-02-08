@@ -1,0 +1,4 @@
+---
+- hosts: demo
+  tasks:
+    - debug: msg="Hello World"
